@@ -1,0 +1,9 @@
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #0f172a;
+}
